@@ -153,4 +153,3 @@ Selanjutnya jika module sudah terprogram, maka skrg kita akan melakukan instalas
 
  - [Medium](https://medium.com/@agamtheos/model-lampu-nyala-hidup-otomatis-menggunakan-sensor-cahaya-nodemcu8266-blynk-2cf7a3cd589a)
  - [Blynk Example](https://examples.blynk.cc/)
-
