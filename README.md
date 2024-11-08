@@ -9,6 +9,7 @@ Ini adalah project IOT untuk penyiraman Otomatis dengan sensor kelembapan yang k
 ## Tech Stack
 
 **Software:** Arduino, Blynk
+----------------------------
 
 **Hardware:** 1 pcs NodeMCU 8266,
 1 pcs Kabel data micro USB,
